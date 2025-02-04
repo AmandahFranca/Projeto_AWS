@@ -115,9 +115,9 @@ A solução completa oferece uma análise dinâmica e interativa dos dados de fi
 ## Scripts, Evidências de Execução e Correções
 
 
-### 1. [Etapa Raw](Projeto_AWS/ETL_dos_Dados/Etapa_Raw_Nova_Extracao_TMDB)
-### 2. [Etapa Trusted](Projeto_AWS/Etapa_Trusted_Corrigida)
-### 3. [Etapa Refined](Projeto_AWS/Etapa_Refined_Corrigida)
+### 1. [Etapa Raw](Projeto_AWS/ETL_dos_Dados/Etapa_Raw_Extracao_TMDB)
+### 2. [Etapa Trusted](Projeto_AWS/Etapa_Trusted)
+### 3. [Etapa Refined](Projeto_AWS/Etapa_Refined)
 ### 4. [Etapa de Vizualização](Projeto_AWS/Etapa_Vizualizacao)
 ### 5. [PDF do Dasboard](Projeto_AWS/Etapa_Vizualizacao/Dashboard_Analise.pdf)
 ### 6. [Base de Dados Adicional](Projeto_AWS/Etapa_Vizualizacao/actors.csv)
