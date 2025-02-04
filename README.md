@@ -30,7 +30,7 @@ Com os dados já tratados e prontos, criamos views no Amazon Athena para facilit
 
 ## A Análise dos Dados extraidos do TMDB:
 
-![Atores](DesafioFinal/Etapa_Vizualizacao/Artistas.png)
+![Atores](ETL_dos_Dados/Etapa_Vizualizacao/Artistas.png)
 
 - **Tendências ao Longo do Tempo:**
 
@@ -48,7 +48,7 @@ Este dashboard visa fornecer uma visão detalhada sobre a popularidade, desempen
 ## Gráficos e Análises
 
 
-![Dashboard](DesafioFinal/Etapa_Vizualizacao/Analise_Comparativa.png)
+![Dashboard](ETL_dos_Dados/Etapa_Vizualizacao/Analise_Comparativa.png)
 
 
 
@@ -96,7 +96,7 @@ Este dashboard visa fornecer uma visão detalhada sobre a popularidade, desempen
 
 Para garantir a consistência e a precisão dos dados analisados, foi realizada a ingestão de uma base de dados adicional:
 
-- **Base de Dados:** [`actors.csv`](DesafioFinal/Etapa_Vizualizacao/actors.csv)
+- **Base de Dados:** [`actors.csv`](ETL_dos_Dados/Etapa_Vizualizacao/actors.csv)
 - **Fonte:** Kaggle
 - **Objetivo:** Esta base de dados foi utilizada para comparar e confirmar a consistência das informações dos filmes estrelados por Adam Sandler e Jim Carrey, validando a integridade dos dados analisados.
 
@@ -104,9 +104,9 @@ Para garantir a consistência e a precisão dos dados analisados, foi realizada 
 
 Este dashboard proporciona uma análise abrangente dos filmes estrelados por Adam Sandler e Jim Carrey, cobrindo aspectos de popularidade, desempenho financeiro e tendências ao longo do tempo. As visualizações ajudam a compreender melhor as dinâmicas de mercado e a influência de cada ator na indústria cinematográfica.
 
-A inclusão da base de dados [actors.csv](DesafioFinal/Etapa_Vizualizacao/actors.csv) reforça a precisão dos dados e assegura que as análises são consistentes e confiáveis.
+A inclusão da base de dados [actors.csv](ETL_dos_Dados/Etapa_Vizualizacao/actors.csv) reforça a precisão dos dados e assegura que as análises são consistentes e confiáveis.
 
-Para uma análise mais aprofundada, consulte os gráficos.[Dashboard](DesafioFinal/Etapa_Vizualizacao/Analise_Comparativa.png)
+Para uma análise mais aprofundada, consulte os gráficos.[Dashboard](ETL_dos_Dados/Etapa_Vizualizacao/Analise_Comparativa.png)
 
 ## Resultado Final: 
 
@@ -115,9 +115,9 @@ A solução completa oferece uma análise dinâmica e interativa dos dados de fi
 ## Scripts, Evidências de Execução e Correções
 
 
-### 1. [Etapa Raw](DesafioFinal/Etapa_Raw_Nova_Extracao_TMDB)
-### 2. [Etapa Trusted](DesafioFinal/Etapa_Trusted_Corrigida)
-### 3. [Etapa Refined](DesafioFinal/Etapa_Refined_Corrigida)
-### 4. [Etapa de Vizualização](DesafioFinal/Etapa_Vizualizacao)
-### 5. [PDF do Dasboard](DesafioFinal/Etapa_Vizualizacao/Dashboard_Analise.pdf)
-### 6. [Base de Dados Adicional](DesafioFinal/Etapa_Vizualizacao/actors.csv)
+### 1. [Etapa Raw](ETL_dos_Dados/Etapa_Raw_Nova_Extracao_TMDB)
+### 2. [Etapa Trusted](ETL_dos_Dados/Etapa_Trusted_Corrigida)
+### 3. [Etapa Refined](ETL_dos_Dados/Etapa_Refined_Corrigida)
+### 4. [Etapa de Vizualização](ETL_dos_Dados/Etapa_Vizualizacao)
+### 5. [PDF do Dasboard](ETL_dos_Dados/Etapa_Vizualizacao/Dashboard_Analise.pdf)
+### 6. [Base de Dados Adicional](ETL_dos_Dados/Etapa_Vizualizacao/actors.csv)
