@@ -30,7 +30,7 @@ Com os dados já tratados e prontos, criamos views no Amazon Athena para facilit
 
 ## A Análise dos Dados extraidos do TMDB:
 
-![Atores](Projeto_AWS/Etapa_Vizualizacao/Artistas.png)
+![Atores](ETL_dos_Dados/Etapa_Vizualizacao/Artistas.png)
 
 - **Tendências ao Longo do Tempo:**
 
