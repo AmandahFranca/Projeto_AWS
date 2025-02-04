@@ -30,7 +30,7 @@ Com os dados já tratados e prontos, criamos views no Amazon Athena para facilit
 
 ## A Análise dos Dados extraidos do TMDB:
 
-![Atores](Etapa_Vizualizacao/Artistas.png)
+![Atores](Projeto_AWS/Etapa_Vizualizacao/Artistas.png)
 
 - **Tendências ao Longo do Tempo:**
 
@@ -48,7 +48,7 @@ Este dashboard visa fornecer uma visão detalhada sobre a popularidade, desempen
 ## Gráficos e Análises
 
 
-![Dashboard](Etapa_Vizualizacao/Analise_Comparativa.png)
+![Dashboard](Projeto_AWS/Etapa_Vizualizacao/Analise_Comparativa.png)
 
 
 
@@ -96,7 +96,7 @@ Este dashboard visa fornecer uma visão detalhada sobre a popularidade, desempen
 
 Para garantir a consistência e a precisão dos dados analisados, foi realizada a ingestão de uma base de dados adicional:
 
-- **Base de Dados:** [`actors.csv`](Etapa_Vizualizacao/actors.csv)
+- **Base de Dados:** [`actors.csv`](Projeto_AWS/Etapa_Vizualizacao/actors.csv)
 - **Fonte:** Kaggle
 - **Objetivo:** Esta base de dados foi utilizada para comparar e confirmar a consistência das informações dos filmes estrelados por Adam Sandler e Jim Carrey, validando a integridade dos dados analisados.
 
@@ -104,9 +104,9 @@ Para garantir a consistência e a precisão dos dados analisados, foi realizada 
 
 Este dashboard proporciona uma análise abrangente dos filmes estrelados por Adam Sandler e Jim Carrey, cobrindo aspectos de popularidade, desempenho financeiro e tendências ao longo do tempo. As visualizações ajudam a compreender melhor as dinâmicas de mercado e a influência de cada ator na indústria cinematográfica.
 
-A inclusão da base de dados [actors.csv](Etapa_Vizualizacao/actors.csv) reforça a precisão dos dados e assegura que as análises são consistentes e confiáveis.
+A inclusão da base de dados [actors.csv](Projeto_AWS/Etapa_Vizualizacao/actors.csv) reforça a precisão dos dados e assegura que as análises são consistentes e confiáveis.
 
-Para uma análise mais aprofundada, consulte os gráficos.[Dashboard](Etapa_Vizualizacao/Analise_Comparativa.png)
+Para uma análise mais aprofundada, consulte os gráficos.[Dashboard](Projeto_AWS/Etapa_Vizualizacao/Analise_Comparativa.png)
 
 ## Resultado Final: 
 
@@ -115,9 +115,9 @@ A solução completa oferece uma análise dinâmica e interativa dos dados de fi
 ## Scripts, Evidências de Execução e Correções
 
 
-### 1. [Etapa Raw](Etapa_Raw_Nova_Extracao_TMDB)
-### 2. [Etapa Trusted](Etapa_Trusted_Corrigida)
-### 3. [Etapa Refined](Etapa_Refined_Corrigida)
-### 4. [Etapa de Vizualização](Etapa_Vizualizacao)
-### 5. [PDF do Dasboard](Etapa_Vizualizacao/Dashboard_Analise.pdf)
-### 6. [Base de Dados Adicional](Etapa_Vizualizacao/actors.csv)
+### 1. [Etapa Raw](Projeto_AWS/Etapa_Raw_Nova_Extracao_TMDB)
+### 2. [Etapa Trusted](Projeto_AWS/Etapa_Trusted_Corrigida)
+### 3. [Etapa Refined](Projeto_AWS/Etapa_Refined_Corrigida)
+### 4. [Etapa de Vizualização](Projeto_AWS/Etapa_Vizualizacao)
+### 5. [PDF do Dasboard](Projeto_AWS/Etapa_Vizualizacao/Dashboard_Analise.pdf)
+### 6. [Base de Dados Adicional](Projeto_AWS/Etapa_Vizualizacao/actors.csv)
