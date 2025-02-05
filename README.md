@@ -6,14 +6,15 @@
 
 Desenvolver uma solução completa para extrair, processar e visualizar dados de filmes a partir da API do TMDb (The Movie Database), utilizando ferramentas da AWS.
 
-## Etapas do Projeto:
+# Etapas do Projeto:
 
-Extração de Dados da API do TMDb com Python:
+## Extração de Dados da API do TMDb com Python:
 
-## Utilização da API do TMDb para coletar dados sobre filmes, como títulos, avaliações, gêneros e outros detalhes.
+Utilização da API do TMDb para coletar dados sobre filmes, como títulos, avaliações, gêneros e outros detalhes.
 
 Python foi utilizado para automação da extração e para transformar esses dados em um formato adequado para armazenamento.
-Integração com a AWS:
+
+# Integração com a AWS:
 
 ## Armazenamento de Dados no Amazon S3: 
 
