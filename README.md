@@ -6,30 +6,28 @@
 
 Desenvolver uma solução completa para extrair, processar e visualizar dados de filmes a partir da API do TMDb (The Movie Database), utilizando ferramentas da AWS.
 
-# Etapas do Projeto:
+## Etapas do Projeto:
 
-## Extração de Dados da API do TMDb com Python:
+### Extração de Dados da API do TMDb com Python:
 
 Utilização da API do TMDb para coletar dados sobre filmes, como títulos, avaliações, gêneros e outros detalhes.
 
 Python foi utilizado para automação da extração e para transformar esses dados em um formato adequado para armazenamento.
 
-# Integração com a AWS:
-
-## Armazenamento de Dados no Amazon S3: 
+### Armazenamento de Dados no Amazon S3: 
 
 Os dados extraídos foram armazenados de maneira segura e escalável no S3, utilizando o armazenamento de objetos.
 
-## Tratamento de Dados com AWS Glue:
+### Tratamento de Dados com AWS Glue:
 
 AWS Glue foi utilizado para realizar o processamento e transformação dos dados, como limpeza, formatação e ajustes necessários antes de carregar para o Athena.
 
-## Criação de Views no Amazon Athena:
+### Criação de Views no Amazon Athena:
 
 Com os dados já tratados e prontos, criamos views no Amazon Athena para facilitar as consultas SQL e estruturar os dados de maneira eficiente para a presente a análise e para análises futuras.
 
 
-## A Análise dos Dados extraidos do TMDB:
+### A Análise dos Dados extraidos do TMDB:
 
 ![Atores](Projeto_AWS/ETL_dos_Dados/Etapa_Vizualizacao/Artistas.png)
 
