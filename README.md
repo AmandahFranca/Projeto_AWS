@@ -27,7 +27,7 @@ AWS Glue foi utilizado para realizar o processamento e transformação dos dados
 Com os dados já tratados e prontos, criamos views no Amazon Athena para facilitar as consultas SQL e estruturar os dados de maneira eficiente para a presente a análise e para análises futuras.
 
 
-### A Análise dos Dados extraidos do TMDB:
+- **A Análise dos Dados extraidos do TMDB:**
 
 ![Atores](Projeto_AWS/ETL_dos_Dados/Etapa_Vizualizacao/Artistas.png)
 
