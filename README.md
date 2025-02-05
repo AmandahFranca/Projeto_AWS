@@ -46,8 +46,6 @@ Análise das variações significativas nas receitas, orçamentos e popularidade
 
 Este dashboard visa fornecer uma visão detalhada sobre a popularidade, desempenho financeiro e tendências dos filmes estrelados por Adam Sandler e Jim Carrey. A seguir, descrevemos os principais gráficos e suas respectivas análises.
 
-## Gráficos e Análises
-
 
 ![Dashboard](Projeto_AWS/ETL_dos_Dados/Etapa_Vizualizacao/Analise_Comparativa.png)
 
