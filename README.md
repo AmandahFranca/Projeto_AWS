@@ -29,7 +29,7 @@ Com os dados já tratados e prontos, criamos views no Amazon Athena para facilit
 
 
 
-# A Análise dos Dados extraidos do TMDB:
+## A Análise dos Dados extraidos do TMDB:
 
 ![Atores](Projeto_AWS/ETL_dos_Dados/Etapa_Vizualizacao/Artistas.png)
 
@@ -40,6 +40,7 @@ Análise das tendências crescentes ou decrescentes em filmes estrelados por Ada
 - **Como a produção de filmes estrelados pelos atores tem variado ao longo dos anos?**
 
 Análise das variações significativas nas receitas, orçamentos e popularidade desses filmes ao longo do tempo.
+
 
 
 # Análise Comparativa dos Filmes Estrelados por Adam Sandler e Jim Carrey
